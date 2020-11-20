@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebasePagination</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="go_to_sign_up">Go to sign up</string>
+    <string name="accept_terms_and_policies">By clicking Sign Up I accept appÂ´s Terms and Conditions, and privacy policy. I also consent I have 18 years old or more.</string>
+    <string name="empty_field">Empty field</string>
+    <string name="sign_out">Sign out</string>
+    <string name="welcome_user">Welcome, %1$s! You already logged in.</string>
+    <string name="delete_all_posts">Delete all posts</string>
+</resources>
